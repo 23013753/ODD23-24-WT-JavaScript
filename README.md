@@ -20,7 +20,7 @@ STEP 5 :
 Run the code to perform calculations and display the output.
 
 # PROGRAM :
-
+```
 <html>
 <head>
 <script type="text/javascript">
@@ -51,7 +51,7 @@ Enter Previous Reading
 </form>
 </body>
 </html>
-
+```
 # OUTPUT
 ![Alt text](<Screenshot 2023-12-29 180423.png>)
 
@@ -73,6 +73,7 @@ STEP 4 :
 Run the code to calculate the factorial of a given number and display the output.
 
 # PROGRAM :
+```
 <html>
 <head>
 <script type="text/javascript">
@@ -97,7 +98,7 @@ Enter Number: <input type="text" id="num">
 </form>
 </body>
 </html>
-
+```
 # OUTPUT
 ![Alt text](<Screenshot 2023-12-29 180438.png>)
 
@@ -119,7 +120,7 @@ STEP 4 :
 Run the java code to print the prime numbers N.
 
 # PROGRAM :
-
+```
 <html>
 <head>
 <script type="text/javascript">
@@ -153,7 +154,7 @@ alert(i);
 </form>
 </body>
 </html>
-
+```
 # OUTPUT
 ![Alt text](<Screenshot 2023-12-29 180448.png>)
 ![Alt text](<Screenshot 2023-12-29 180456.png>)
@@ -178,7 +179,7 @@ STEP 4 :
 Run the code.
 
 # PROGRAM :
-
+```
 <html>
 <head>
 <script type="text/javascript">
@@ -257,7 +258,7 @@ document.getElementById("n3").value=" ";
 </form>
 </body>
 </html>
-
+```
 # OUTPUT
 ![Alt text](<Screenshot 2023-12-29 180505.png>)
 
@@ -283,7 +284,7 @@ STEP 5 :
 Run the code and display the output.
 
 # PROGRAM :
-
+```
 <html>
 <head>
 <script type="text/javascript">
@@ -345,7 +346,7 @@ Simple Text Editor using JavaScript
 </form>
 </body>
 </html>
-
+```
 # OUTPUT
 ![Alt text](<Screenshot 2023-12-29 180514.png>)
 
@@ -370,6 +371,7 @@ STEP 5 :
 Run the code and finally display the output.
 
 # PROGRAM :
+```
 <html>
 <head>
   <title>Form Validation</title>
@@ -445,7 +447,7 @@ Run the code and finally display the output.
 	</table>
 </body>
 </html>
-
+```
 # OUTPUT
 ![Alt text](<Screenshot 2023-12-29 180525.png>)
 
